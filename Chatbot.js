@@ -36,7 +36,7 @@ const userMessage = [
     ["im tired"]
   ];
   const botReply = [
-    ["ILOVEEE SLACK"]
+    ["ILOVEEE SLACK"],
     ["Hello!", "Hi!", "Hey!", "Hi there!"],
     ["Okay"],
     ["Yes I am! "],
