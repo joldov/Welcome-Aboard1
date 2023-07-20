@@ -1,4 +1,5 @@
 const userMessage = [
+    ["slack", "slack test", "slackinf"],
     ["hi", "hey", "hello"],
     ["sure", "yes", "no"],
     ["are you genious", "are you nerd", "are you intelligent"],
@@ -8,7 +9,7 @@ const userMessage = [
     ["what are you doing", "what is going on", "what is up"],
     ["how old are you"],
     ["who are you", "are you human", "are you bot", "are you human or bot"],
-    ["slack", "slack test", "slackinf"],
+    ["who created you", "who made you", "who is your creator"],
   
    
   
@@ -35,6 +36,7 @@ const userMessage = [
     ["im tired"]
   ];
   const botReply = [
+    ["salckigngngn"],
     ["Hello!", "Hi!", "Hey!", "Hi there!"],
     ["Okay"],
     ["Yes I am! "],
@@ -56,7 +58,7 @@ const userMessage = [
     ],
     ["I am always young."],
     ["I am just a bot", "I am a bot. What are you?"],
-    ["i love slack"],
+    ["Sabitha Kuppusamy"],
     ["I am nameless", "I don't have a name"],
     ["I love you too", "Me too"],
     ["Have you ever felt bad?", "Glad to hear it"],
