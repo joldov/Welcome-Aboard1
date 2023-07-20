@@ -8,7 +8,7 @@ const userMessage = [
     ["what are you doing", "what is going on", "what is up"],
     ["how old are you"],
     ["who are you", "are you human", "are you bot", "are you human or bot"],
-    ["im having trouble with slack", "i need help setting up slack","can you help me with slack?"],
+    ["who created you", "who made you", "who is your creator"],
   
    
   
@@ -56,7 +56,7 @@ const userMessage = [
     ],
     ["I am always young."],
     ["I am just a bot", "I am a bot. What are you?"],
-    ["If you are having difficulty logging in to your Liberty Mutual workspace on Slack, you may need to request a new invite from your company's Slack administrator. Once you have the new invite, follow the instructions provided to join the workspace. "]
+    ["Sabitha Kuppusamy"],
     ["I am nameless", "I don't have a name"],
     ["I love you too", "Me too"],
     ["Have you ever felt bad?", "Glad to hear it"],
