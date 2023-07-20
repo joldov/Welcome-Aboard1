@@ -36,7 +36,7 @@ const userMessage = [
     ["im tired"]
   ];
   const botReply = [
-    ["salckigngngn"],
+    ["ILOVEEE SLACK"]
     ["Hello!", "Hi!", "Hey!", "Hi there!"],
     ["Okay"],
     ["Yes I am! "],
@@ -58,7 +58,7 @@ const userMessage = [
     ],
     ["I am always young."],
     ["I am just a bot", "I am a bot. What are you?"],
-    ["Sabitha Kuppusamy"],
+    ["Sudeepa Roy"],
     ["I am nameless", "I don't have a name"],
     ["I love you too", "Me too"],
     ["Have you ever felt bad?", "Glad to hear it"],
