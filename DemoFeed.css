@@ -1,0 +1,479 @@
+.demo-feed2 {
+  position: absolute;
+  top: 204px;
+  left: 148px;
+  font-size: 64px;
+}
+.welcome-to-your {
+  position: absolute;
+  top: 304px;
+  left: 148px;
+  display: inline-block;
+  width: 1419px;
+  height: 80px;
+}
+.frame-child7,
+.frame-child8 {
+  position: absolute;
+  top: 32px;
+  left: 38px;
+  width: 248px;
+  height: 66px;
+}
+.frame-child8 {
+  top: 0;
+  left: 0;
+  background-color: #ffd336;
+  width: 1744px;
+  height: 125px;
+}
+.demo-feed3 {
+  position: absolute;
+  top: 0;
+  left: 73.5px;
+}
+.icon-video-outline1 {
+  position: absolute;
+  height: 88.87%;
+  width: 19.88%;
+  top: 11.13%;
+  right: 80.12%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.demo-feed-parent {
+  position: absolute;
+  top: 47px;
+  left: 668px;
+  width: 239.5px;
+  height: 51.31px;
+}
+.image-14-icon1,
+.image-15-icon {
+  position: absolute;
+  top: 0;
+  left: 17px;
+  width: 125px;
+  height: 130px;
+  object-fit: cover;
+}
+.image-15-icon {
+  top: 58px;
+  left: 200px;
+  width: 38px;
+  height: 35px;
+}
+.dashboard1 {
+  position: absolute;
+  top: 49px;
+  left: 247px;
+  cursor: pointer;
+}
+.image-16-icon {
+  position: relative;
+  width: 33px;
+  height: 37px;
+  object-fit: cover;
+}
+.modules1 {
+  position: relative;
+  cursor: pointer;
+}
+.image-16-parent {
+  position: absolute;
+  top: 50px;
+  left: 451px;
+  width: 167px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 9px;
+}
+.rectangle-input {
+  border: 0;
+  background-color: #edebeb;
+  position: absolute;
+  top: 125px;
+  left: 0;
+  border-radius: 9px;
+  width: 247px;
+  height: 42px;
+}
+.home-demo,
+.jane-wilson {
+  position: absolute;
+  font-family: Inter;
+}
+.home-demo {
+  top: 133px;
+  left: 12px;
+  font-size: 24px;
+  display: inline-block;
+  width: 672px;
+  height: 47px;
+}
+.jane-wilson {
+  top: 50px;
+  left: 1500px;
+  font-size: 27px;
+  cursor: pointer;
+}
+.frame3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1744px;
+  height: 181px;
+  font-size: 32px;
+  font-family: Jomolhari;
+}
+.frame-child10,
+.frame-child11,
+.frame-child12,
+.frame-child9 {
+  position: absolute;
+  top: 733px;
+  left: 0;
+  border-radius: 50%;
+  background-color: #ffd336;
+  width: 574px;
+  height: 460px;
+}
+.frame-child10,
+.frame-child11,
+.frame-child12 {
+  top: 1005px;
+  left: 1560px;
+  width: 198px;
+  height: 168px;
+}
+.frame-child11,
+.frame-child12 {
+  top: 1916px;
+  left: 292px;
+  width: 352px;
+  height: 357px;
+}
+.frame-child12 {
+  top: 2380px;
+  left: 1289px;
+  width: 833px;
+  height: 756px;
+}
+.frame-child13,
+.frame-child14 {
+  position: absolute;
+  left: 368px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  width: 1417px;
+}
+.frame-child13 {
+  top: 994px;
+  background-color: rgba(255, 211, 54, 0.31);
+  border: 3px solid #002663;
+  height: 1831px;
+}
+.frame-child14 {
+  top: 0;
+  background-color: #ffd336;
+  border: 2px solid #002663;
+  height: 894px;
+}
+.microsoft-teams-introduction {
+  position: absolute;
+  top: 1164px;
+  left: 442px;
+  text-align: left;
+}
+.docker-101,
+.jira-basics {
+  position: absolute;
+  top: 1816px;
+  left: 442px;
+  font-weight: 600;
+}
+.docker-101 {
+  top: 2311px;
+  left: 441px;
+}
+.installing-nodejs,
+.intellij-debugging {
+  position: absolute;
+  top: 1816px;
+  left: 1097px;
+  font-weight: 600;
+}
+.installing-nodejs {
+  top: 2304px;
+}
+.featured-video {
+  position: absolute;
+  top: 61px;
+  left: 842px;
+  font-size: 50px;
+  display: inline-block;
+  text-align: left;
+  width: 485px;
+  height: 64px;
+}
+.joanna-senior-software {
+  position: absolute;
+  top: 125px;
+  left: 481px;
+  display: inline-block;
+  width: 1192px;
+  height: 99px;
+}
+.see-more {
+  position: absolute;
+  top: 789px;
+  left: 992px;
+  font-weight: 600;
+}
+.all-videos {
+  position: absolute;
+  top: 1058px;
+  left: 965px;
+  font-size: 50px;
+}
+.frame-child15,
+.frame-child16,
+.image-17-icon {
+  position: absolute;
+  top: 1054px;
+  left: 1625px;
+  width: 81px;
+  height: 70px;
+  object-fit: cover;
+}
+.frame-child15,
+.frame-child16 {
+  top: 1869px;
+  left: 432px;
+  border-radius: 30px;
+  width: 581px;
+  height: 320px;
+}
+.frame-child16 {
+  top: 2356px;
+  left: 424px;
+}
+.icon-play-circle,
+.icon-play-circle1 {
+  position: absolute;
+  height: 2.31%;
+  width: 3.49%;
+  top: 63.37%;
+  right: 61.41%;
+  bottom: 34.32%;
+  left: 35.1%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-play-circle1 {
+  top: 78.89%;
+  right: 61.82%;
+  bottom: 18.8%;
+  left: 34.69%;
+}
+.frame-child17,
+.frame-child18 {
+  position: absolute;
+  top: 1869px;
+  left: 1097px;
+  border-radius: 30px;
+  width: 603px;
+  height: 320px;
+  object-fit: cover;
+}
+.frame-child18 {
+  top: 2356px;
+}
+.frame-child19 {
+  position: absolute;
+  top: 3099px;
+  left: 221px;
+  background-color: #002663;
+  width: 1764px;
+  height: 46px;
+}
+.icon-play-circle2 {
+  position: absolute;
+  height: 2.07%;
+  width: 3.16%;
+  top: 15.64%;
+  right: 47.31%;
+  bottom: 82.29%;
+  left: 49.53%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.liberty-mutual-insurance1 {
+  position: absolute;
+  top: 3107px;
+  left: 270px;
+  font-size: 24px;
+  font-family: Inter;
+  color: #fff;
+}
+.frame-child20 {
+  position: absolute;
+  top: 1220px;
+  left: 432px;
+  border-radius: 30px;
+  width: 831px;
+  height: 513px;
+  object-fit: cover;
+}
+.icon-play-circle3 {
+  position: absolute;
+  height: 2.28%;
+  width: 3.53%;
+  top: 45.28%;
+  right: 54.49%;
+  bottom: 52.44%;
+  left: 41.98%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child21 {
+  position: absolute;
+  top: 35px;
+  left: -50px;
+  border-radius: 20px;
+  background-color: rgba(255, 211, 54, 0.72);
+  border: 1px solid #676767;
+  box-sizing: border-box;
+  width: 412px;
+  height: 444px;
+}
+.git {
+  margin: 0;
+}
+.git-node-container1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.git-node-container,
+.tags {
+  position: absolute;
+  top: -8px;
+  left: -27px;
+  display: flex;
+  align-items: center;
+  width: 319.86px;
+  height: 481.74px;
+}
+.tags {
+  top: 35px;
+  font-size: 30px;
+  text-decoration: underline;
+  width: 121.8px;
+  height: 93.05px;
+}
+.rectangle-container {
+  position: absolute;
+  top: 1209px;
+  left: 1373px;
+  width: 412px;
+  height: 552px;
+  text-align: left;
+  font-size: 25px;
+}
+.image-23-icon1 {
+  position: absolute;
+  top: 2825px;
+  left: 263px;
+  width: 321px;
+  height: 274px;
+  object-fit: cover;
+}
+.icon-play-circle4,
+.icon-play-circle5 {
+  position: absolute;
+  height: 2.31%;
+  width: 3.49%;
+  top: 63.37%;
+  right: 27.03%;
+  bottom: 34.32%;
+  left: 69.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-play-circle5 {
+  top: 78.89%;
+  bottom: 18.8%;
+}
+.frame-child22,
+.image-22-icon {
+  position: absolute;
+  object-fit: cover;
+}
+.image-22-icon {
+  top: 2914px;
+  left: 1743px;
+  width: 157px;
+  height: 143px;
+  cursor: pointer;
+}
+.frame-child22 {
+  top: 246px;
+  left: 490px;
+  border-radius: 30px;
+  width: 1173px;
+  height: 471px;
+}
+.icon-play-circle6 {
+  height: 2.31%;
+  width: 3.49%;
+  top: 14.18%;
+  right: 43.38%;
+  bottom: 83.51%;
+  left: 53.13%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.frame4,
+.icon-person,
+.icon-play-circle6 {
+  position: absolute;
+  overflow: hidden;
+}
+.frame4 {
+  top: 405px;
+  left: -219px;
+  width: 1963px;
+  height: 3145px;
+  text-align: center;
+  font-family: Montserrat;
+}
+.icon-person {
+  height: 1.7%;
+  width: 3.69%;
+  top: 0.58%;
+  right: 2.27%;
+  bottom: 97.71%;
+  left: 94.04%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.demo-feed1 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 3550px;
+  text-align: left;
+  font-size: 30px;
+  color: #000;
+  font-family: Inter;
+}

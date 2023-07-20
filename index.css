@@ -1,0 +1,356 @@
+.image-1-icon {
+  position: absolute;
+  top: 1891px;
+  left: 108px;
+  width: 403px;
+  height: 363px;
+  object-fit: cover;
+}
+.icon-video-outline {
+  position: relative;
+  width: 49px;
+  height: 53.52px;
+}
+.demo-feed {
+  position: relative;
+  cursor: pointer;
+}
+.icon-video-outline-parent {
+  position: absolute;
+  top: 39px;
+  left: 686px;
+  width: 228px;
+  height: 56.57px;
+  display: none;
+  flex-direction: row;
+  padding: 3.041181802749634px 0 0.0000016689300537109375px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.image-10-icon,
+.image-3-icon {
+  position: absolute;
+  top: 5px;
+  left: 18px;
+  width: 125px;
+  height: 130px;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 53px;
+  left: 175px;
+  width: 45px;
+  height: 34px;
+}
+.dashboard {
+  left: 232px;
+  cursor: pointer;
+}
+.dashboard,
+.image-14-icon,
+.modules {
+  position: absolute;
+  top: 44px;
+}
+.image-14-icon {
+  left: 452px;
+  width: 47px;
+  height: 51px;
+  object-fit: cover;
+}
+.modules {
+  left: 511px;
+  cursor: pointer;
+}
+.ellipse-div,
+.frame,
+.frame-child2 {
+  position: absolute;
+  left: 0;
+  background-color: #ffd336;
+}
+.frame {
+  top: -5px;
+  width: 1728px;
+  height: 129px;
+  overflow: hidden;
+}
+.ellipse-div,
+.frame-child2 {
+  top: 0;
+  border-radius: 50%;
+  width: 478px;
+  height: 375px;
+}
+.frame-child2 {
+  top: 197px;
+  left: 1601px;
+}
+.jane-wilsons-profile {
+  position: absolute;
+  top: 28px;
+  left: 351px;
+  font-size: 56px;
+  display: inline-block;
+  width: 829px;
+  height: 73px;
+}
+.frame-child3 {
+  position: absolute;
+  top: 416px;
+  left: 334px;
+  border-radius: 20px;
+  background-color: rgba(255, 211, 54, 0.33);
+  border: 2px solid #002663;
+  box-sizing: border-box;
+  width: 702px;
+  height: 366px;
+}
+.git-badge {
+  font-weight: 500;
+}
+.earned-the-git-container,
+.earned-the-slack-container {
+  position: absolute;
+  top: 731px;
+  left: 423px;
+}
+.earned-the-slack-container {
+  top: 570px;
+}
+.git-github {
+  font-weight: 700;
+}
+.completed-git-container {
+  position: absolute;
+  top: 648px;
+  left: 423px;
+}
+.completed-setting-up-container {
+  position: absolute;
+  top: 493px;
+  left: 423px;
+}
+.rectangle-textarea {
+  border: 2px solid #002663;
+  background-color: rgba(255, 211, 54, 0.35);
+  position: absolute;
+  top: 416px;
+  left: 1166px;
+  border-radius: 20px;
+  box-sizing: border-box;
+  width: 754px;
+  height: 366px;
+}
+.image-28-icon {
+  position: absolute;
+  top: 233px;
+  left: 343px;
+  width: 147px;
+  height: 122px;
+  object-fit: cover;
+}
+.image-29-icon,
+.image-30-icon,
+.image-33-icon {
+  position: absolute;
+  top: 225px;
+  left: 568px;
+  width: 142px;
+  height: 130px;
+  object-fit: cover;
+}
+.image-30-icon,
+.image-33-icon {
+  left: 805px;
+  width: 136px;
+  height: 146px;
+}
+.image-33-icon {
+  left: 1506px;
+  width: 132px;
+  height: 130px;
+}
+.image-34-icon,
+.image-35-icon,
+.image-36-icon {
+  position: absolute;
+  top: 233px;
+  left: 1733px;
+  width: 118px;
+  height: 121px;
+  object-fit: cover;
+}
+.image-35-icon,
+.image-36-icon {
+  top: 307px;
+  left: 447px;
+  width: 61px;
+  height: 64px;
+}
+.image-36-icon {
+  left: 696px;
+}
+.your-badges {
+  position: absolute;
+  top: 162px;
+  left: 355px;
+  font-size: 36px;
+}
+.recent-activity {
+  position: absolute;
+  top: 434px;
+  left: 371px;
+}
+.image-37-icon,
+.image-45-icon,
+.image-46-icon,
+.image-47-icon {
+  position: absolute;
+  top: 492px;
+  left: 373px;
+  width: 33px;
+  height: 34px;
+  object-fit: cover;
+}
+.image-45-icon,
+.image-46-icon,
+.image-47-icon {
+  top: 570px;
+}
+.image-46-icon,
+.image-47-icon {
+  top: 647px;
+}
+.image-47-icon {
+  top: 730px;
+}
+.internship-co-op {
+  position: absolute;
+  top: 48px;
+  left: 1601px;
+}
+.frame-child4,
+.overall-progress {
+  position: absolute;
+  top: 434px;
+  left: 1202px;
+}
+.frame-child4 {
+  top: 509px;
+  left: 1208px;
+  background-color: #fff;
+  width: 657px;
+  height: 32px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 510px;
+  left: 1202px;
+  width: 191px;
+  height: 31px;
+}
+.span {
+  font-family: Montserrat;
+}
+.number-of-comments-left-5 {
+  margin: 0;
+}
+.blank-line {
+  margin: 0;
+  font-family: Inter;
+}
+.i,
+.number-of-comments-container {
+  position: absolute;
+  top: 577px;
+  left: 1208px;
+}
+.i {
+  top: 513px;
+  left: 1815px;
+  font-size: 20px;
+  font-family: Inter;
+  text-align: center;
+}
+.image-43-icon,
+.image-44-icon {
+  position: absolute;
+  top: 235px;
+  left: 1036px;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+}
+.image-44-icon {
+  top: 227px;
+  left: 1262px;
+  width: 161px;
+  height: 135px;
+}
+.frame1 {
+  position: absolute;
+  top: 143px;
+  left: -255px;
+  width: 2079px;
+  height: 782px;
+  overflow: hidden;
+  font-size: 27px;
+  font-family: Montserrat;
+}
+.frame-child5 {
+  position: absolute;
+  top: 0;
+  left: 711px;
+  border-radius: 50%;
+  background-color: #ffd336;
+  width: 305px;
+  height: 233px;
+}
+.frame-child6 {
+  position: absolute;
+  top: 177px;
+  left: 0;
+  background-color: #002663;
+  width: 1728px;
+  height: 54px;
+}
+.image-23-icon,
+.liberty-mutual-insurance {
+  position: absolute;
+  top: 188px;
+  left: 18px;
+}
+.image-23-icon {
+  top: 34px;
+  left: 1548px;
+  width: 157px;
+  height: 143px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.frame2 {
+  position: absolute;
+  top: 943px;
+  left: 0;
+  width: 1728px;
+  height: 233px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 24px;
+  color: #fff;
+  font-family: Inter;
+}
+.profile {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1174px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Jomolhari;
+}

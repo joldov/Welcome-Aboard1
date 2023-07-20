@@ -1,0 +1,704 @@
+.dashboard-git-green-child {
+  position: absolute;
+  top: 227px;
+  left: 1215px;
+  border-radius: 50%;
+  background-color: #ffd336;
+  width: 177px;
+  height: 127px;
+}
+.span4 {
+  color: #eca740;
+}
+.hello-jane-you-container1 {
+  position: absolute;
+  top: 263px;
+  left: 142px;
+  font-size: 48px;
+  display: inline-block;
+  font-family: Montserrat;
+  width: 1392px;
+  height: 52px;
+}
+.dashboard-git-green-inner,
+.dashboard-git-green-item {
+  position: absolute;
+  border: 3px solid #000;
+  box-sizing: border-box;
+}
+.dashboard-git-green-item {
+  top: 885px;
+  left: 312px;
+  border-radius: 35px;
+  background-color: #d9d9d9;
+  width: 1067px;
+  height: 122px;
+  display: none;
+}
+.dashboard-git-green-inner {
+  top: 377px;
+  left: 242px;
+  border-radius: 30px;
+  background-color: #ffd336;
+  width: 1215px;
+  height: 1713px;
+}
+.dashboard-git-green-child1 {
+  position: absolute;
+  top: 748px;
+  left: 420px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.communications1 {
+  position: absolute;
+  top: 654px;
+  left: 300px;
+  font-size: 48px;
+  font-family: Montserrat;
+  text-align: left;
+  display: inline-block;
+  width: 427px;
+  height: 72px;
+}
+.dashboard-git-green-child2 {
+  position: absolute;
+  top: 1037px;
+  left: 312px;
+  border-radius: 35px;
+  background-color: #fff;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  width: 1067px;
+  height: 122px;
+}
+.join-jira-board1,
+.search-icon1 {
+  position: absolute;
+  top: 1081px;
+  left: 352px;
+}
+.search-icon1 {
+  top: 512px;
+  left: 322px;
+  border-radius: 100px;
+  width: 1049px;
+  height: 108px;
+}
+.search-all-tasks1 {
+  position: absolute;
+  top: 544px;
+  left: 437px;
+  color: #676767;
+}
+.icon-arrow-ios-forward14 {
+  position: absolute;
+  height: 10.21%;
+  width: 5.44%;
+  top: 40.71%;
+  right: 20.66%;
+  bottom: 49.08%;
+  left: 73.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child132 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 35px;
+  width: 1049px;
+  height: 122px;
+}
+.docker2 {
+  position: absolute;
+  top: 40px;
+  left: 43px;
+  font-size: 36px;
+  font-family: Inter;
+  color: #000;
+  text-align: center;
+}
+.icon-arrow-ios-forward15 {
+  position: absolute;
+  height: 61.47%;
+  width: 8.96%;
+  top: 13.11%;
+  right: 0.57%;
+  bottom: 25.42%;
+  left: 90.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1722px;
+  left: 322px;
+  width: 1049px;
+  height: 122px;
+}
+.dashboard-git-green-child3 {
+  position: absolute;
+  top: 1881px;
+  left: 321px;
+  border-radius: 35px;
+  background-color: #fff;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  width: 1049px;
+  height: 122px;
+}
+.maven2 {
+  position: absolute;
+  top: 1923px;
+  left: 356px;
+}
+.icon-arrow-ios-forward16 {
+  position: absolute;
+  height: 3.37%;
+  width: 5.44%;
+  top: 85.47%;
+  right: 21.41%;
+  bottom: 11.16%;
+  left: 73.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child133 {
+  position: relative;
+  border-radius: 35px;
+  background-color: #81f18d;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  width: 1067.05px;
+  height: 121.95px;
+  transform: rotate(-0.18deg);
+  transform-origin: 0 0;
+}
+.rectangle-frame {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1067.28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+}
+.set-up-slack2 {
+  position: absolute;
+  top: 40.52px;
+  left: 47px;
+  font-size: 36px;
+  font-family: Inter;
+  color: #000;
+  text-align: center;
+}
+.image-13-icon1 {
+  position: absolute;
+  top: 23.52px;
+  left: 972px;
+  width: 64px;
+  height: 78px;
+  object-fit: cover;
+}
+.frame-parent3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 730.48px;
+  left: 312px;
+  width: 1067.28px;
+  height: 125.26px;
+}
+.frame-child134 {
+  position: absolute;
+  top: 3.32px;
+  left: 0;
+  border-radius: 35px;
+  background-color: #81f18d;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  width: 1067.05px;
+  height: 121.95px;
+  transform: rotate(-0.18deg);
+  transform-origin: 0 0;
+}
+.set-up-microsoft1 {
+  position: absolute;
+  top: 38px;
+  left: 40px;
+  font-size: 36px;
+  font-family: Inter;
+  color: #000;
+  text-align: center;
+}
+.image-18-icon2 {
+  position: absolute;
+  top: 20px;
+  left: 976px;
+  width: 64px;
+  height: 78px;
+  object-fit: cover;
+}
+.rectangle-parent10 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 885px;
+  left: 312px;
+  width: 1067.28px;
+  height: 125.26px;
+}
+.dashboard-git-green-child4,
+.dashboard-git-green-child5 {
+  position: absolute;
+  top: 462px;
+  left: 838px;
+  border-radius: 100px;
+  height: 20px;
+}
+.dashboard-git-green-child4 {
+  background-color: #fff;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  width: 572px;
+}
+.dashboard-git-green-child5 {
+  background-color: #3bc14a;
+  width: 198px;
+}
+.image-17-icon2 {
+  position: absolute;
+  top: 400px;
+  left: 271px;
+  width: 81px;
+  height: 70px;
+  object-fit: cover;
+}
+.complete10 {
+  position: absolute;
+  top: 417px;
+  left: 1154px;
+  font-size: 30px;
+  display: inline-block;
+  font-family: Montserrat;
+  width: 290px;
+  height: 45px;
+}
+.image-19-icon1 {
+  position: absolute;
+  top: 1282px;
+  left: 594px;
+  width: 61px;
+  height: 64px;
+  object-fit: cover;
+}
+.due-in-22 {
+  position: absolute;
+  top: 1297px;
+  left: 1067px;
+  font-size: 32px;
+  text-align: left;
+}
+.icon-search-outline1 {
+  position: absolute;
+  height: 2.79%;
+  width: 3.7%;
+  top: 24.07%;
+  right: 75.93%;
+  bottom: 73.14%;
+  left: 20.37%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-1-icon4 {
+  position: absolute;
+  top: 1895px;
+  left: 0;
+  width: 321px;
+  height: 274px;
+  object-fit: cover;
+}
+.technology1 {
+  position: absolute;
+  top: 1180px;
+  left: 303px;
+  font-size: 48px;
+  font-family: Montserrat;
+  text-align: left;
+  display: inline-block;
+  width: 427px;
+  height: 72px;
+}
+.frame-child135 {
+  position: absolute;
+  top: 3.26px;
+  left: 0;
+  border-radius: 35px;
+  background-color: #81f18d;
+  border: 3px solid #000;
+  box-sizing: border-box;
+  width: 1049.06px;
+  height: 121.95px;
+  transform: rotate(-0.18deg);
+  transform-origin: 0 0;
+}
+.git-github3 {
+  position: relative;
+  font-size: 36px;
+  font-family: Inter;
+  color: #000;
+  text-align: center;
+}
+.frame41 {
+  position: absolute;
+  top: 30.44px;
+  left: 43px;
+  width: 290px;
+  height: 64px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+}
+.image-19-icon2 {
+  position: absolute;
+  top: 23.44px;
+  left: 961px;
+  width: 64px;
+  height: 78px;
+  object-fit: cover;
+}
+.frame40 {
+  position: relative;
+  width: 1049.29px;
+  height: 125.21px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-arrow-ios-forward17 {
+  position: relative;
+  width: 94px;
+  height: 74.99px;
+  margin-left: -94px;
+}
+.dashboard-git-green-child6,
+.frame39 {
+  cursor: pointer;
+  padding: 0;
+  position: absolute;
+  left: 322px;
+}
+.frame39 {
+  border: 0;
+  background-color: transparent;
+  top: 1251.56px;
+  width: 1049.29px;
+  height: 125.21px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+.dashboard-git-green-child6 {
+  border: 3px solid #000;
+  background-color: #fff;
+  top: 1558px;
+  border-radius: 35px;
+  box-sizing: border-box;
+  width: 1049px;
+  height: 122px;
+}
+.postman1 {
+  position: absolute;
+  top: 1598px;
+  left: 365px;
+}
+.icon-arrow-ios-forward18,
+.vector-icon4 {
+  position: absolute;
+  left: 73.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon4 {
+  height: 4.23%;
+  width: 4.34%;
+  top: 67.66%;
+  right: 22.22%;
+  bottom: 28.12%;
+  opacity: 0;
+}
+.icon-arrow-ios-forward18 {
+  height: 3.37%;
+  width: 5.44%;
+  top: 71.12%;
+  right: 21.12%;
+  bottom: 25.51%;
+}
+.dashboard-git-green-child7 {
+  position: absolute;
+  top: 2003px;
+  left: 1473px;
+  border-radius: 50%;
+  background-color: #ffd336;
+  width: 416px;
+  height: 373px;
+}
+.dashboard-git-green-child8 {
+  position: absolute;
+  top: 482px;
+  left: 1512px;
+  border-radius: 30px;
+  background-color: rgba(255, 211, 54, 0.35);
+  border: 2px solid #000;
+  box-sizing: border-box;
+  width: 41px;
+  height: 1395px;
+}
+.frame-child136 {
+  position: relative;
+  border-radius: 200px;
+  background-color: #7eb2ff;
+  filter: blur(91px);
+  width: 60px;
+  height: 60px;
+  opacity: 0;
+}
+.dashboard-git-green-inner1 {
+  position: absolute;
+  top: 1988px;
+  left: 1515px;
+  width: 157px;
+  height: 143px;
+  display: flex;
+  flex-direction: column;
+  padding: 41px 43px;
+  box-sizing: border-box;
+  align-items: flex-start;
+  justify-content: flex-end;
+  background-image: url(./public/image-22@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  cursor: pointer;
+}
+.frame-child137 {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  background-color: #ffd336;
+  width: 1728px;
+  height: 120px;
+}
+.frame-child138 {
+  position: absolute;
+  top: 34px;
+  left: 38px;
+  width: 248px;
+  height: 66px;
+}
+.icon-video-outline7 {
+  position: relative;
+  width: 54px;
+  height: 57.93px;
+}
+.demo-feed9 {
+  position: relative;
+  cursor: pointer;
+}
+.icon-video-outline-parent3 {
+  position: absolute;
+  top: 46px;
+  left: 698px;
+  width: 230px;
+  height: 57.93px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+}
+.modules9 {
+  position: absolute;
+  top: 48px;
+  left: 523px;
+  cursor: pointer;
+}
+.image-3-icon4 {
+  width: 54px;
+  height: 43px;
+  object-fit: cover;
+}
+.dashboard8,
+.image-3-icon4 {
+  position: relative;
+}
+.image-3-group {
+  text-decoration: none;
+  position: absolute;
+  top: 45px;
+  left: 184px;
+  width: 216px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+  color: inherit;
+}
+.image-2-icon3,
+.image-4-icon3 {
+  position: absolute;
+  top: 48px;
+  left: 459px;
+  width: 54px;
+  height: 52px;
+  object-fit: cover;
+}
+.image-2-icon3 {
+  top: 11px;
+  left: 17px;
+  width: 125px;
+  height: 130px;
+}
+.rectangle-parent11 {
+  position: absolute;
+  top: -11px;
+  left: 0;
+  width: 1728px;
+  height: 130px;
+  text-align: left;
+  font-size: 32px;
+  font-family: Jomolhari;
+}
+.dashboard-git-green-child9 {
+  position: absolute;
+  top: 381px;
+  left: -259px;
+  border-radius: 50%;
+  background-color: #ffd336;
+  width: 416px;
+  height: 373px;
+}
+.dashboard-git-green-child10 {
+  position: absolute;
+  top: 114px;
+  left: -11px;
+  border-radius: 9px;
+  background-color: #edebeb;
+  width: 470px;
+  height: 57px;
+}
+.home-janes3 {
+  position: absolute;
+  top: 123px;
+  left: 26px;
+  font-size: 32px;
+  text-align: left;
+}
+.icon-arrow-ios-forward19 {
+  position: relative;
+  width: 94px;
+  height: 74.99px;
+}
+.intellij-setup-parent {
+  cursor: pointer;
+  border: 3px solid #000;
+  padding: 24px 6px 23.010711669921875px;
+  background-color: #fff;
+  position: absolute;
+  top: 1406px;
+  left: 322px;
+  border-radius: 35px;
+  box-sizing: border-box;
+  width: 1049px;
+  height: 122px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 688px;
+}
+.jane-wilson6 {
+  position: absolute;
+  top: 50px;
+  left: 1472px;
+  font-size: 24px;
+  display: inline-block;
+  text-align: left;
+  width: 175.74px;
+  height: 29.17px;
+  cursor: pointer;
+}
+.group-icon5 {
+  position: absolute;
+  height: 2.06%;
+  width: 2.43%;
+  top: 1.8%;
+  right: 3.01%;
+  bottom: 96.14%;
+  left: 94.56%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dashboard-git-green-child11,
+.frame42 {
+  position: absolute;
+  box-sizing: border-box;
+}
+.dashboard-git-green-child11 {
+  top: 482px;
+  left: 1512px;
+  border-radius: 30px;
+  background-color: #ffd336;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 2px solid #000;
+  width: 40px;
+  height: 122px;
+}
+.frame42 {
+  top: 2169px;
+  left: 0;
+  background-color: #002663;
+  width: 1728px;
+  height: 54px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 38px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 24px;
+  color: #fff;
+}
+.dashboard-git-green {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 2223px;
+  overflow-y: auto;
+  text-align: center;
+  font-size: 36px;
+  color: #000;
+  font-family: Inter;
+}

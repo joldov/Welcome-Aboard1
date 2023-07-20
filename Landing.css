@@ -1,0 +1,160 @@
+.image-1-icon3 {
+  position: absolute;
+  top: 1891px;
+  left: 108px;
+  width: 403px;
+  height: 363px;
+  object-fit: cover;
+}
+.frame-child86 {
+  position: absolute;
+  top: 672px;
+  left: 907px;
+  width: 416px;
+  height: 300px;
+  cursor: pointer;
+}
+.frame-child87 {
+  position: absolute;
+  top: 1078px;
+  left: 248px;
+  background-color: #002663;
+  width: 1728px;
+  height: 54px;
+}
+.image-5-icon {
+  position: absolute;
+  top: 281px;
+  left: 1528px;
+  width: 381px;
+  height: 750px;
+  object-fit: cover;
+}
+.frame-child88,
+.frame-child89,
+.frame-child90 {
+  position: absolute;
+  top: 965px;
+  left: 30px;
+  border-radius: 50%;
+  background-color: #ffd336;
+  width: 298px;
+  height: 225px;
+}
+.frame-child89,
+.frame-child90 {
+  top: 158px;
+  left: 1805px;
+}
+.frame-child90 {
+  top: 0;
+  left: 0;
+  width: 712px;
+  height: 403px;
+}
+.welcome-aboard {
+  position: absolute;
+  top: 132px;
+  left: 240px;
+  font-size: 72px;
+  display: inline-block;
+  color: #333;
+  width: 983px;
+  height: 139px;
+}
+.this-website-is {
+  margin: 0;
+}
+.this-website-is-container {
+  position: absolute;
+  top: 232px;
+  left: 407px;
+  font-size: 30px;
+  font-weight: 500;
+  color: #676767;
+  text-align: left;
+  display: inline-block;
+  width: 1100px;
+  height: 267px;
+}
+.frame-child91 {
+  position: absolute;
+  top: 742px;
+  left: 372px;
+  width: 244px;
+  height: 83px;
+}
+.frame-child92,
+.frame-child93 {
+  position: absolute;
+  top: 565px;
+  left: 407px;
+  border-radius: 35px;
+  width: 512px;
+  height: 73px;
+}
+.frame-child93 {
+  top: 686px;
+}
+.liberty-email-address,
+.password {
+  position: absolute;
+  top: 587px;
+  left: 439px;
+  font-family: Inter;
+}
+.password {
+  top: 708px;
+}
+.sign-in-here {
+  position: relative;
+  display: inline-block;
+  width: 860px;
+  height: 99px;
+  flex-shrink: 0;
+}
+.line-div {
+  position: relative;
+  border-top: 5px solid #ffd336;
+  box-sizing: border-box;
+  width: 517px;
+  height: 5px;
+}
+.sign-in-here-parent {
+  position: absolute;
+  top: 432px;
+  left: 221px;
+  width: 860px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  font-size: 64px;
+  color: #000;
+}
+.liberty-mutual-insurance5 {
+  position: absolute;
+  top: 1090px;
+  left: 356px;
+  font-family: Inter;
+  color: #fff;
+}
+.frame23 {
+  position: absolute;
+  top: -15px;
+  left: -248px;
+  width: 2103px;
+  height: 1190px;
+  overflow: hidden;
+}
+.landing {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1117px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 24px;
+  color: #8e8d94;
+  font-family: Montserrat;
+}

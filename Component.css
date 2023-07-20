@@ -1,0 +1,34 @@
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 71.27px;
+  background-color: #fff;
+  box-shadow: 0 1.979585886001587px 5.94px rgba(0, 0, 0, 0.2),
+    -1.979585886001587px -5.938757419586182px 0 rgba(0, 0, 0, 0.1) inset;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  box-sizing: border-box;
+  width: 142.53px;
+}
+.div,
+.div1,
+.rectangle {
+  height: 142.53px;
+}
+.div1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 142.53px;
+}
+.div {
+  position: relative;
+  width: 100%;
+  text-align: center;
+  font-size: 83.14px;
+  color: rgba(0, 0, 0, 0.8);
+  font-family: Inter;
+}
