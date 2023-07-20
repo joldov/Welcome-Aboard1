@@ -8,7 +8,7 @@ const userMessage = [
     ["what are you doing", "what is going on", "what is up"],
     ["how old are you"],
     ["who are you", "are you human", "are you bot", "are you human or bot"],
-    ["who created you", "who made you", "who is your creator"],
+    ["slack", "slack test", "slackinf"],
   
    
   
@@ -56,7 +56,7 @@ const userMessage = [
     ],
     ["I am always young."],
     ["I am just a bot", "I am a bot. What are you?"],
-    ["Sabitha Kuppusamy"],
+    ["i love slack"],
     ["I am nameless", "I don't have a name"],
     ["I love you too", "Me too"],
     ["Have you ever felt bad?", "Glad to hear it"],
