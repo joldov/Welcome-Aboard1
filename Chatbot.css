@@ -23,7 +23,7 @@ body .card {
 }
 body .card #header {
   height: 5vw;
-  background: #000;
+  background: #ffdd30;
   padding: 0vw;
 }
 body .card #header h1 {
@@ -55,23 +55,24 @@ body .card #message-section #user {
   position: relative;
   bottom: 0;
   min-height: 1.5vw;
-  border: 0.15vw solid #777;
+  border: 0.15vw solid #ffdd30;
   background-color: #fff;
   border-radius: 0px 1.5vw 1.5vw 1.8vw;
   padding: 1vw;
   margin: 1.5vw 0;
 }
 body .card #message-section #user {
-  border: 1.5px solid #000;
+  border: 1.5px solid #ffdd30;
   border-radius: 1.5vw 0vw 1.5vw 1.8vw;
-  background-color: #000;
+  background-color: #ffdd30;
   float: right;
 }
 body .card #message-section #user #user-response {
   color: #fff;
 }
 body .card #message-section .message {
-  color: #000;
+  color: #ffdd30;
+  color: 
   clear: both;
   line-height: 1.2vw;
   font-size: 1.2vw;
